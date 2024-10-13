@@ -1,0 +1,17 @@
+bin/
+build/
+deployments/
+tmp/
+scripts/
+#infra/
+
+Makefile
+README.md
+
+.git
+.gitignore
+.dockerignore
+
+Dockerfile
+docker-compose.yml
+kafka.Dockerfile
